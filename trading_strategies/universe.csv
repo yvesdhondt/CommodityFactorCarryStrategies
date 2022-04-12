@@ -1,0 +1,28 @@
+﻿name,type,eikon_ticker
+Sugar No 11,Agriculture,SB
+Sugar White,Agriculture,LSU
+Coffee,Agriculture,KC
+Coffee,Agriculture,ICF
+Cotton,Agriculture,CT
+Chicago Wheat,Agriculture,W
+Kansas Wheat,Agriculture,KW
+Corn,Agriculture,C
+Soybeans,Agriculture,S
+Cocoa,Agriculture,CC
+COMEX Copper,Base Metals,HG
+LME Aluminum,Base Metals,SAF
+LME Zinc,Base Metals,SZN
+LME Nickel,Base Metals,SNI
+LME Lead,Base Metals,SPB
+WTI Crude Oil,Energy,CL
+Natural Gas,Energy,NG
+Brent Crude Oil,Energy,LCO
+Low Sulphur Gas Oil,Energy,LGO
+RBOB Gasoline,Energy,RB
+ULS Diesel,Energy,HO
+Heating Oil - Low Sulphur,Energy,LHO
+Live Cattle,Livestock,LC
+Lean Hogs,Livestock,LH
+Feeder Cattle,Livestock,FC
+Gold,Precious Metals,GC
+Silver,Precious Metals,SI

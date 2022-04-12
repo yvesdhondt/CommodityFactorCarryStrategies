@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+trading_strategies/.idea
+trading_strategies/config.json
+trading_strategies/price_data_c1.csv
+trading_strategies/price_data_c2.csv
+trading_strategies/price_data_c3.csv
+trading_strategies/price_data_c4.csv
