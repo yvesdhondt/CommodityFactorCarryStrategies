@@ -133,3 +133,10 @@ trading_strategies/price_data_c1.csv
 trading_strategies/price_data_c2.csv
 trading_strategies/price_data_c3.csv
 trading_strategies/price_data_c4.csv
+trading_strategies/all_carry_test.csv
+trading_strategies/negative_carry_test.csv
+trading_strategies/positive_carry_test.csv
+trading_strategies/price_data_check.csv
+trading_strategies/price_data_cleaned.csv
+trading_strategies/start_dates.csv
+trading_strategies/sugar_no_11_test.csv
