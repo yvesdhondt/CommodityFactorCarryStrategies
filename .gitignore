@@ -153,3 +153,13 @@ trading_strategies/positive_value_carry_test.csv
 trading_strategies/negative_carry_momentum_test.csv
 trading_strategies/ew_test.csv
 trading_strategies/us_1yt.csv
+trading_strategies/table_4.csv
+trading_strategies/strategy_vs_index_table.csv
+trading_strategies/strat_vs_market_corr.png
+trading_strategies/strat_overview_table.csv
+trading_strategies/rf.csv
+trading_strategies/regression_table.csv
+trading_strategies/market_indices.csv
+trading_strategies/financial_crisis_2008.png
+trading_strategies/dot_com_bubble.png
+trading_strategies/covid_crisis.png
